@@ -1,13 +1,10 @@
 ---
-title: 'An example journal article'
+title: 'Neurodevelopmental patterns of early postnatal white matter maturation represent distinct underlying microstructure and histology'
 authors:
   - admin
-  - Robert Ford
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-date: '2015-09-01T00:00:00Z'
-doi: ''
+  - et al.
+date: '2022'
+doi: '10.1016/j.neuron.2022.09.020'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
