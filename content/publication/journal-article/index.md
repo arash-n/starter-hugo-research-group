@@ -16,10 +16,10 @@ publishDate: '2022-12-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Neuron, 1*(1)'
+publication: '*Neuron, 7;110*(23)'
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Cerebral white matter undergoes a rapid and complex maturation during the early postnatal period. Prior magnetic resonance imaging (MRI) studies of early postnatal development have often been limited by small sample size, single-modality imaging, and univariate analytics. Here, we applied nonnegative matrix factorization, an unsupervised multivariate pattern analysis technique, to T2w/T1w signal ratio maps from the Developing Human Connectome Project (n = 342 newborns) revealing patterns of coordinated white matter maturation. These patterns showed divergent age-related maturational trajectories, which were replicated in another independent cohort (n = 239). Furthermore, we showed that T2w/T1w signal variations in these maturational patterns are explained by differential contributions of white matter microstructural indices derived from diffusion-weighted MRI. Finally, we demonstrated how white matter maturation patterns relate to distinct histological features by comparing our findings with postmortem late fetal/early postnatal brain tissue staining. Together, these results delineate concise and effective representation of early postnatal white matter reorganization.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
