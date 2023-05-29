@@ -1,7 +1,7 @@
 ---
 title: 'Neurodevelopmental patterns of early postnatal white matter maturation represent distinct underlying microstructure and histology'
 authors:
-  - admin
+  - Arash Nazeri
   - et al.
 date: '2022'
 doi: '10.1016/j.neuron.2022.09.020'
