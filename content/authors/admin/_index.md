@@ -26,13 +26,14 @@ interests:
   - Focused Ultrasound
 
 education & training:
-    - Neuroradiology Fellowship
+  courses:
+    - course: Neuroradiology Fellowship
       institution: Washington University in St. Louis
       year: 2022
-    - Diagnostic Radiology Residency
+    - course: Diagnostic Radiology Residency
       institution: Washington University in St. Louis
       year: 2021
-    - M.D.
+    - course: M.D.
       institution: Tehran University of Medical Sciences
       year: 2013
 
