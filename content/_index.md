@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **BraFTI Research Lab** focuses on developing imaging methods to characterize brain fluid compartments, tissue microstructure, and neurofluid dynamics in health and disease. In addition, by perturbing brain fluid compartments, BraFTI aims to develop novel therapeutic and diagnostic approaches.
+        The **BraFTI Research Lab** focuses on developing imaging methods to characterize brain fluid compartments, tissue microstructure, and neurofluid dynamics in health and disease. By perturbing brain fluid compartments, BraFTI aims to develop novel therapeutic and diagnostic approaches.
   
   - block: collection
     content:
