@@ -21,7 +21,7 @@ sections:
       title: |
         Mission
       image:
-        filename: tissue.jpg
+        filename: tissue.png
      
       text: |
         <br>
