@@ -8,9 +8,9 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
+      - title: Brain Fluid Compartments
         content: Take a look at what we're working on...
-        align: center
+        align: top
         background:
           image:
             filename: bfc.png
@@ -18,17 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
-        background:
-          image:
-            filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: World-Class Semiconductor Lab
+      - title: Brain Fluid Translational Imaging Lab
         content: 'Just opened last month!'
         align: right
         background:
@@ -42,7 +32,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Join Us
-          url: ../contact/
+          url: mailto:a.nazeri at / sign / .wustl.edu
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
