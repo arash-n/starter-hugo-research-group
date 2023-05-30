@@ -1,6 +1,6 @@
 ---
 title: Tour
-date: 2022-10-24
+date: 2023-05-28
 
 type: landing
 
@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: bfc.png
             filters:
               brightness: 0.7
           position: right
