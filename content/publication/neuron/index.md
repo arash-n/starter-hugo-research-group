@@ -31,7 +31,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/asotiras/brainparts'
 url_dataset: 'https://zenodo.org/record/6782004'
 url_poster: ''
 url_project: ''
