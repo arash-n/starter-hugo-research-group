@@ -25,7 +25,7 @@ interests:
   - Neurofluid Imaging
   - Focused Ultrasound
 
-education & training:
+education:
   courses:
     - course: Neuroradiology Fellowship
       institution: Washington University in St. Louis

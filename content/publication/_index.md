@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Selected Publications by Lab Members
 
 # Listing view
 view: citation
