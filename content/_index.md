@@ -21,6 +21,7 @@ sections:
     content:
       title: |
         *Our Mission*
+        
      image:
         filename: tissue.png
       text: |
