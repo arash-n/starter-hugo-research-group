@@ -19,7 +19,7 @@ sections:
   - block: hero
     content:
       title: |
-        *Summary*
+        Mission
      
       text: |
         <br>
