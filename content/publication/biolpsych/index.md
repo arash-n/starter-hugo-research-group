@@ -7,7 +7,7 @@ date: '2017'
 doi: '10.1016/j.biopsych.2016.12.005'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-11-31T00:00:00Z'
+publishDate: '2017-31-11T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference Proceeding; 2 = Journal article;
