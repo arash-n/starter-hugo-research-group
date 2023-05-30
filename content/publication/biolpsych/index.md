@@ -1,13 +1,12 @@
 ---
-title: 'Gray Matter Neuritic Microstructure Deficits in Schizophrenia and Bipolar Disorder
-'
+title: 'Gray Matter Neuritic Microstructure Deficits in Schizophrenia and Bipolar Disorder'
 authors:
   - admin
 date: '2017'
 doi: '10.1016/j.biopsych.2016.12.005'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-31-11T00:00:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference Proceeding; 2 = Journal article;
