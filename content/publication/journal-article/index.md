@@ -59,7 +59,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides:
----
+
 title: 'Focused Ultrasound–mediated Liquid Biopsy in a Tauopathy Mouse Model'
 authors:
   - admin
