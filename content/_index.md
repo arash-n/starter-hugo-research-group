@@ -20,6 +20,8 @@ sections:
     content:
       title: |
         Mission
+      image:
+        filename: tissue.jpg
      
       text: |
         <br>
