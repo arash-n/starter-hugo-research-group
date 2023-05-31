@@ -72,8 +72,8 @@ user_groups:
   - PI
 ---
 
-Arash Nazeri is an assistant professor of radiology at the Mallinckrodt Institute of Radiology, Washington University School of Medicine. 
+Arash Nazeri, MD, is a physician-scientist and neuroradiologist serving as an assistant professor of radiology at the Mallinckrodt Institute of Radiology, Washington University School of Medicine.
 
 Arash earned his medical degree from Tehran University of Medical Sciences in Iran. Subsequently, he came to CAMH as a postdoctoral research fellow, where he focused on imaging-genetics, computational neuroimaging, and diffusion-weighted MRI. He then completed his residency training in diagnostic radiology and fellowship training in neuroradiology at Washington University in St. Louis. 
 
-His research focuses on using diffusion-weighted MRI to study brain microstructure and neurofluids in neurodevelopment, aging, and brain disorders. He also employs focused ultrasound to perturb brain fluid compartments and open the blood-brain barrier for drug delivery and release of brain-derived biomarkers to the blood. Arash has received fellowship awards and research grants from CIHR, RSNA, and ASNR.
+His research focuses on using diffusion-weighted MRI to study brain microstructure and neurofluids in neurodevelopment, aging, and brain disorders. He also employs focused ultrasound to perturb brain fluid compartments and open the blood-brain barrier for drug delivery and release of brain-derived biomarkers to the blood.
