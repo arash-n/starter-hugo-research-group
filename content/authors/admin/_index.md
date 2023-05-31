@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.mir.wustl.edu/employees/arash-nazeri/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include neurofluid imaging, tissue microstructure, and perturbation of brain tissue fluid compartments.
 
 interests:
   - Diffusion-weighted MRI
