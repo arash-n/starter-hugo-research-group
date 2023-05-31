@@ -13,7 +13,7 @@ sections:
         align: top
         background:
           image:
-            filename: bfc.png
+            filename: welcome.jpg
             filters:
               brightness: 0.7
           position: right
