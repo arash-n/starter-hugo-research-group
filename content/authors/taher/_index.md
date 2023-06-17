@@ -25,9 +25,10 @@ organizations:
 bio: My research interests include neurofluid imaging, tissue microstructure, and perturbation of brain tissue fluid compartments.
 
 interests:
-  - Diffusion-weighted MRI
+  - Machine Learning
+  - Deep Feature Selection
   - Neurofluid Imaging
-  - Focused Ultrasound
+
 
 education:
   courses:
@@ -67,4 +68,6 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
+
+Taher Dehkharghanian earned his MD from the Tehran University of Medical Sciences in 2016. He did his masters in Computer Science at OntarioTech university. Currently, he is doing research on the intersections of Artificial Intelligence and medical image analysis. His research interest is in AI ethics, particularly in explainable and interpretable AI.
 
