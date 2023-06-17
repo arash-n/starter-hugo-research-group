@@ -35,6 +35,9 @@ education:
     - course: M.D.
       institution: Tehran University of Medical Sciences
       year: 2016
+    - course: M.S. in Computer Science
+      institution: OntarioTech University
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -69,5 +72,5 @@ user_groups:
   - Researchers
 ---
 
-Taher Dehkharghanian earned his MD from the Tehran University of Medical Sciences in 2016. He did his masters in Computer Science at OntarioTech university. Currently, he is doing research on the intersections of Artificial Intelligence and medical image analysis. His research interest is in AI ethics, particularly in explainable and interpretable AI.
+Taher Dehkharghanian earned his MD from the Tehran University of Medical Sciences in 2016. He did his masters in Computer Science at OntarioTech University. Currently, he is doing research on the intersections of Artificial Intelligence and medical image analysis. His research interest is in AI ethics, particularly in explainable and interpretable AI.
 
