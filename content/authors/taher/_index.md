@@ -6,6 +6,10 @@ title: Taher Dehkharghanian, MD, MS
 first_name: Taher
 last_name: Dehkharghanian
 
+# Username (this should match the folder name)
+authors:
+  - taher
+
 # Is this the primary user of the site?
 superuser: false
 
