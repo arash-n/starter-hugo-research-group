@@ -22,7 +22,7 @@ abstract: a
 
 
 # Summary. An optional shortened abstract.
-summary: Focused ultrasound–mediated blood-based liquid biopsy (sonobiopsy) improves detection of biomarkers of neurodegeneration from spatially targeted brain regions into the blood circulation compared with liquid biopsy without focused ultrasound.
+summary: CSF flow imaging.
 
 tags:
   - Source Themes
