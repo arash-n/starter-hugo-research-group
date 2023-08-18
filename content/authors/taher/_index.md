@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Taher Dehkharghanian, MD, MS
+title: Taher Dehkharghanian
 
 # Full Name (for SEO)
 first_name: Taher
