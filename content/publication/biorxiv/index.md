@@ -3,10 +3,10 @@ title: 'The Spatial Patterns and Determinants of Cerebrospinal Fluid Circulation
 authors:
   - admin
 date: '2023'
-doi: '10.1523/JNEUROSCI.3979-14.2015'
+doi: '10.1101/2023.08.13.553149'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2015-01-31T00:00:00Z'
+publishDate: '2023-01-31T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference Proceeding; 2 = Journal article;
@@ -32,7 +32,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: ''
-url_code: 'https://github.com/arash-n/GBSS'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
