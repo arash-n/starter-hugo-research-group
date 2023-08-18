@@ -18,7 +18,7 @@ publication_types: ['3']
 publication: '*BioRxiv*, 35(4)'
 publication_short: ''
 
-abstract: a
+abstract: The circulation of cerebrospinal fluid (CSF) is essential for maintaining brain homeostasis and clearance, and impairments in its flow can lead to various brain disorders. Recent studies have shown that CSF circulation can be interrogated using low b-value diffusion magnetic resonance imaging (low-b dMRI). Nevertheless, the spatial organization of intracranial CSF flow dynamics remains largely elusive. Here, we developed a whole-brain voxel-based analysis framework, termed CSF pseudo-diffusion spatial statistics (CpsiSS), to examine CSF mean pseudo-diffusivity (Mpsi), a measure of CSF flow magnitude derived from low-b dMRI. We showed that intracranial CSF Mpsi demonstrates characteristic covariance patterns by employing seed-based correlation analysis. Importantly, we applied non-negative matrix factorization analysis to further elucidate the covariance patterns of CSF Mpsi in a hypothesis-free, data-driven way. We identified distinct CSF spaces that consistently displayed unique pseudo-diffusion characteristics across multiple imaging datasets. Our study revealed that age, sex, brain atrophy, ventricular anatomy, and cerebral perfusion differentially influence Mpsi across these CSF spaces. Notably, individuals with anomalous CSF flow patterns displayed incidental findings on multimodal neuroradiological examinations. Our work sets forth a new paradigm to study CSF flow, with potential applications in clinical settings.
 
 
 # Summary. An optional shortened abstract.
