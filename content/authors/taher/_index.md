@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
 ---
 
 Taher Dehkharghanian earned his MD from the Tehran University of Medical Sciences in 2016. He did his masters in Computer Science at OntarioTech University. Currently, he is doing research on the intersections of Artificial Intelligence and medical image analysis. His research interest is in AI ethics, particularly in explainable and interpretable AI. Taher is currently a diagnostic radiology resident at the University of Toronto.
