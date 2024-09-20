@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Research Associate
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -67,4 +67,4 @@ user_groups:
   - Researchers
 ---
 
-
+Debolina is a biomedical engineer with a foundation in electronics and communications engineering. She earned her graduate degree in biomedical engineering with a focus on MR imaging from the University at Buffalo, where her thesis centered on developing RF head coils for enhanced UHF MRI capabilities. She is working on small animal neurofluid imaging studies and deuterium coil development for ultra-high field MRI scanners. 

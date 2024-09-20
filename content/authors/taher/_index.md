@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Research Associate
+role: Alumnus
 
 # Organizations/Affiliations
 organizations:
@@ -72,5 +72,6 @@ user_groups:
   - Researchers
 ---
 
-Taher Dehkharghanian earned his MD from the Tehran University of Medical Sciences in 2016. He did his masters in Computer Science at OntarioTech University. Currently, he is doing research on the intersections of Artificial Intelligence and medical image analysis. His research interest is in AI ethics, particularly in explainable and interpretable AI.
+Taher Dehkharghanian earned his MD from the Tehran University of Medical Sciences in 2016. He did his masters in Computer Science at OntarioTech University. Currently, he is doing research on the intersections of Artificial Intelligence and medical image analysis. His research interest is in AI ethics, particularly in explainable and interpretable AI. Taher is currently a diagnostic radiology resident at the University of Toronto.
+
 
