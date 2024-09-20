@@ -63,4 +63,4 @@ user_groups:
   - Researchers
 ---
 
-Nick is a mechanical engineer from WashU now working in the BraFTI Lab as a Research Assistant. Using his knowledge of fluid mechanics, I specialize in Cerebrospinal Fluid Flow studies on mice, rats, and pigs. I also help out with the other sectors of the lab like clinical research and wet lab maintenance.
+Nick is a mechanical engineer from WashU now working in the BraFTI Lab as a Research Assistant. Using his knowledge of fluid mechanics, he specialize in Cerebrospinal Fluid Flow studies on mice, rats, and pigs. He also help out with the other sectors of the lab like clinical research and wet lab maintenance.
