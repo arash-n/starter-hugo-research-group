@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
