@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Alumnus
 
 # Organizations/Affiliations
 organizations:
@@ -60,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
 ---
 
 Nick is a mechanical engineer from WashU now working in the BraFTI Lab as a Research Assistant. Using his knowledge of fluid mechanics, he specialize in Cerebrospinal Fluid Flow studies on mice, rats, and pigs. He also help out with the other sectors of the lab like clinical research and wet lab maintenance.
