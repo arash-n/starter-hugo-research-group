@@ -19,3 +19,10 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+[[redirects]]
+  from = "/*"
+  to = "https://www.mir.wustl.edu/research/research-centers/biomedical-mr-center-bmrc/labs/nazeri-lab/"
+  status = 301
+  force = true
+
